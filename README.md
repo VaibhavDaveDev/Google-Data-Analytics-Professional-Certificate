@@ -1,7 +1,6 @@
 # Google Data Analytics Professional Certificate
 
-- [Google Data Analytics Professional Certificate](https://www.coursera.org/professional-certificates/google-data-analytics) Personal Repository.
-- All assignments, challenges, and capstones have been done with a Grade Achievement of 10000%.
+- [Google Data Analytics Professional Certificate](https://www.coursera.org/professional-certificates/google-data-analytics)
 - Case Study Completed - Case Study: How can a wellness company play it smart?
 - [Google Data Analytics Capstone: Analyzing Bellabeat's Data with Python](https://github.com/VaibhavDaveDev/Google-Data-Analytics-Capstone.git)
 
